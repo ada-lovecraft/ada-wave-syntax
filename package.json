@@ -8,7 +8,7 @@
     "theme",
     "atom"
   ],
-  "repository": "https://github.com/atom/ada-wave-syntax",
+  "repository": "https://github.com/8-uh/ada-wave-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
