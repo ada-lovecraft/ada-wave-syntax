@@ -1,11 +1,12 @@
 {
   "name": "ada-wave-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.1.0",
+  "description": "Purpley-pink dark syntax theme for Atom",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "atom"
   ],
   "repository": "https://github.com/atom/ada-wave-syntax",
   "license": "MIT",
