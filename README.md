@@ -6,5 +6,5 @@ In remembrance of a different time and age, when hackers were binary ronin, when
 
 ![](/ss.png?raw=true "ada-wave-syntax")
 
-Font Used: [fira-code](https://github.com/tonsky/FiraCode) @ 12px
+Font Used: [fira-code](https://github.com/tonsky/FiraCode) @ 12px  
 UI Theme: [arc-ui](https://atom.io/packages/arc-ui)
