@@ -4,6 +4,11 @@ In remembrance of a different time and age, when hackers were binary ronin, when
 
 :grey_hat:
 
+### Install
+```$ apm install ada-wave-syntax```
+
+
+
 ![](/ss.png?raw=true "ada-wave-syntax")
 
 Font Used: [fira-code](https://github.com/tonsky/FiraCode) @ 12px  
